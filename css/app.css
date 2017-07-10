@@ -1,0 +1,35 @@
+.body {
+    width: 100%;
+}
+.grid-x {
+    padding-left: 15px;
+}
+.label {
+    vertical-align: middle;
+    
+}
+.card {
+    height: 626px;
+    width: 300px;
+    margin: 0 auto;
+}
+.adduser {
+    font-size: 250px;
+    color: #ddd;
+    text-align: center;
+}
+.adduser i {
+    line-height: 626px;
+    vertical-align: middle;
+}
+.footer {
+    margin-top: 30px;
+    text-align: center;
+    height: 55px;
+    line-height: 55px;
+    vertical-align: middle;
+    background: #e6e6e6;
+}
+.margin30 {
+    margin-top: 30px;
+}
